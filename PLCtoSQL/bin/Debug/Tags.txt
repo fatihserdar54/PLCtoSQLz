@@ -1,0 +1,10 @@
+T_Green
+T_Red
+TEMP
+EQ
+SHRT
+QUAL
+MTCE
+MATL
+FUL
+CONV

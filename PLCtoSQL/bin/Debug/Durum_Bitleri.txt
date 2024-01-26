@@ -1,0 +1,9 @@
+Run
+Temp
+Eq
+Shrt
+Qual
+Mtce
+Matl
+Full
+Conv
